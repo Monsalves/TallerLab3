@@ -1,0 +1,4 @@
+La clase "Liga" está compuesta por 16 obejtos de la clase "Equipo", cada equipo está compuesto por 4 jugadores 
+de la clase "Jugador" y a la vez de 1 jugador de la clase "JugadorCapitan", esta clase es hija de la clase jugador y se diferencia
+de su "progenitora" por tener el atributo capitán.
+Tanto el "Jugador" y el "JugadorCapitan" solo pueden pertenecer a un equipo. 
