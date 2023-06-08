@@ -1,0 +1,2 @@
+La clase vendedor está asociada con el pedido, un vendedor puede tener 1 a muchos pedidos y un pedido puede tener un solo vendedor.
+La clase pedido está compuesta por 1 o más productos.
