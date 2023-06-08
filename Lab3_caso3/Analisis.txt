@@ -1,0 +1,3 @@
+Un cliente puede tener 1 o más pedidos, el pedido será solo de 1 cliente. Ocurre lo mismo con el mesero, este puede tener uno o más pedidos pero los pedidos son de un solo mesero, el cliente tiene un mesero que lo atiende pero el mesero puede tener 1 o más clientes.
+
+Los pedidos están compuestos por uno o más platos
